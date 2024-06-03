@@ -1,0 +1,27 @@
+GET http://localhost:5121/games
+
+###
+GET http://localhost:5121/games/1
+
+###
+Post http://localhost:5121/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "Kids and Family",
+    "price": 19.99,
+    "releaseDate": "2011-11-18"
+}
+
+### 
+Put http://localhost:5121/games/1
+Content-Type: application/json
+
+ {
+    "id": 1,
+    "name": "Street Fighter II Turbo",
+    "genre": "Fighting",
+    "price": 9.99,
+    "releaseDate": "1991-07-15"
+  }
