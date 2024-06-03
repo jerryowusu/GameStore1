@@ -23,3 +23,4 @@ C:\Users\Jerry\Desktop\Ethos\GameStore\GameStore.Api\obj\Debug\net8.0\refint\Gam
 C:\Users\Jerry\Desktop\Ethos\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 C:\Users\Jerry\Desktop\Ethos\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\Jerry\Desktop\Ethos\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+C:\Users\Jerry\Desktop\Ethos\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
